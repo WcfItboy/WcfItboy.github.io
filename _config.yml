@@ -14,10 +14,10 @@ url: "https://Wcfitboy.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username: #
+facebook_username: #
 github_username:  Wcfitboy
-email: u3004330@connect.hku.hk
+email: Ac_JavaMan@163.com
 weibo_username: 
 zhihu_username:
 linkedIn_username: Weston
@@ -48,12 +48,12 @@ gitalk:
 google_analytics_id: UA-126298955-1 # google 分析追踪id
 ga_domain: auto
 
-friends: [
-    {
-        title: "Linkedin - Xin YAO",
-        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-    }
-]
+#friends: [
+#    {
+#        title: "Linkedin - Xin YAO",
+#        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
+#    }
+#]
 
 # Build settings
 markdown: kramdown
